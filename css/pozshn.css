@@ -32,9 +32,6 @@
  }
  }
  @media screen and (max-width: 729px) {
- header{
- 	height: 60vh;
-	}
 	.psd img{
  	position: relative;
  	top: 35%;
@@ -47,9 +44,6 @@
  }
 }
 @media screen and (max-width: 629px) {
- header{
- height: 50vh;
-}
  nav ul{
  	display: flex;
  	text-align: center;
